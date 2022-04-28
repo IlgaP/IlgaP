@@ -5,7 +5,7 @@ A new passionate Java Developer, always excited to learn new things.
  ### 🔭 I’m currently working on:
 
 - ### ✈️ [Flight planer](https://github.com/IlgaP/flight-planner)
- REST API writen in Java & Spring Boot
+ REST API written in Java & Spring Boot
 
 ---
  🌱 I’m currently learning JAVA, HTML, CSS. 
