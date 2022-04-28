@@ -2,6 +2,10 @@
 A new passionate Java Developer, always excited to learn new things.
 
 ---
+🔭 I’m currently working on:
+
+### ✈️ [Flight planer](https://github.com/IlgaP/flight-planner)
+---
 
 ### Languages and tools:
 
