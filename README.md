@@ -7,7 +7,7 @@ A new passionate Java Developer, always excited to learn new things.
 - ### ✈️ [Flight planer](https://github.com/IlgaP/flight-planner)
  REST API written in Java & Spring Boot
  
- - ### 📁 [Example](https://github.com/IlgaP/angular-example)
+ - ### 📁 [Example](https://github.com/IlgaP/example)
  Front-End using Angular
 
 ---
